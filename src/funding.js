@@ -30,6 +30,7 @@ export const FUNDING = {
   // deprecated APMs will be removed soon
   ZIMPLER: ("zimpler": "zimpler"),
   MAXIMA: ("maxima": "maxima"),
+  ACH: ("ach": "ach"),
 };
 
 export const FUNDING_BRAND_LABEL = {

@@ -24,4 +24,5 @@ export const APM_LIST = [
   // deprecated APMs will be removed soon
   FUNDING.MAXIMA,
   FUNDING.ZIMPLER,
+  FUNDING.ACH,
 ];

@@ -26,7 +26,8 @@ export var FUNDING = {
   SATISPAY: "satispay",
   PAIDY: "paidy",
   ZIMPLER: "zimpler",
-  MAXIMA: "maxima"
+  MAXIMA: "maxima",
+  ACH: "ach"
 };
 export var FUNDING_BRAND_LABEL = {
   PAYPAL: "PayPal",
