@@ -99,4 +99,5 @@ export type FundingEligibilityType = {|
   // deprecated APMs will be removed soon
   zimpler?: BasicEligibility,
   maxima?: BasicEligibility,
+  ach?: BasicEligibility,
 |};
